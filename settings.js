@@ -19,23 +19,25 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is ❤️✌️චූටික්කී🌹⃝✥⃟☺️᭄ꦿ            
+*🌹⃝⃘̉̉̉̉̉̉🖤⃢පිපුනාද  දුර ඈත ☘️⃟̺̻̺̻̺̻̺༃᭄꧂ ⃢මම හොයනවා තනි රෑක☘️⃟̺̻̺̻̺̻̺༃᭄꧂ ⃢නුඹ ගෙනදුන් තරු හීව්න☘️⃟̺̻̺̻̺̻̺༃᭄꧂ ⃢මම හොයනවා ඔබ  තවම☘️⃟̺̻̺̻̺̻̺༃᭄꧂ ⃢රන් සලු ඇදගෙන🌼🌹⃝⃘̉̉̉̉̉̉නුබ එන මාවත🌼🌹⃝⃘̉̉̉̉̉̉ වසන්තය වගේ හරිම හැඩයි 🌼🌹⃝⃘̉̉̉̉̉̉🍃⃟✦⃝🌼᭄᭄᭄̊̊̊̊̊̊*
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+❉⃟)
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
+global.owner = ['+94742800947'] //Owner number in aive msg
+global.premium = ['+94742800947'] //Owner Number info
+global.ownernomer = '+94742800947' //Owner Number <<<
 
-global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.ownername = '❤️✌️චූටික්කී🌹⃝✥⃟☺️᭄ꦿ' //Owner Name
+global.botname = ' ❤️✌️චූටික්කී🌹⃝✥⃟☺️᭄ꦿ' //Bot Name
+
+global.button = '🤭whatsapp📍' //Costomize A Button Name In Alive Message
+global.btnurl = https://chat.whatsapp.com/IY6flwwehqLKsP9tV8Mtxg' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.author = ❤️✌️චූටික්කී🌹⃝✥⃟☺️᭄ꦿ' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
